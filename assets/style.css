@@ -13,7 +13,7 @@
     }
     
     .item-nav{
-        background-color: rgb(104, 131, 8);
+        background-color: rgb(240, 82, 90);
         border: 1px solid black;
         padding: 12px 230px;
         text-align: center;
@@ -41,7 +41,7 @@
         
     }
     .item{
-        background-color: rgb(126, 243, 165);
+        background-color: rgb(141, 241, 116);
         border: 1px solid black;
         padding: 12px 230px;
     }
